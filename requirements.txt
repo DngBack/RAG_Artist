@@ -1,0 +1,10 @@
+llama-index
+# Setting llamaindex without OpenAI     
+# llama-index-core 
+# llama-index-readers-file 
+# llama-index-llms-ollama 
+# llama-index-embeddings-huggingface
+llama-index-embeddings-openai
+llama-index-vector-stores-qdrant
+qdrant_client
+chromadb
